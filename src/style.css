@@ -1,0 +1,9 @@
+html, body{
+  width: 100vw;
+  height: 100vh;
+  background-color: blueviolet;
+  font-size: large;
+  font-family: sans-serif Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bold;
+  max-width: 73em;
+}
